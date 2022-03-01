@@ -1,0 +1,1012 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Divine hymns, and other extempory poems by R.C.</title>
+            <author>R. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08610</idno>
+            <idno type="STC">Wing C103</idno>
+            <idno type="STC">ESTC R170336</idno>
+            <idno type="EEBO-CITATION">64551021</idno>
+            <idno type="OCLC">ocm 64551021</idno>
+            <idno type="VID">184410</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08610)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184410)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Divine hymns, and other extempory poems by R.C.</title>
+                  <author>R. C.</author>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 17 wrongly numbered page 9.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hymns, English --  Early works to 1800.</term>
+               <term>Religious poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184410:1"/>
+            <pb facs="tcp:184410:1"/>
+            <pb facs="tcp:184410:2" rendition="simple:additions"/>
+            <pb facs="tcp:184410:2" rendition="simple:additions"/>
+            <p>Divine Hymns, And other Extempory POEMS.</p>
+            <p>By <hi>R. C.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for the Author, 1695.</p>
+            <pb facs="tcp:184410:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:184410:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb facs="tcp:184410:4"/>
+            <pb n="3" facs="tcp:184410:4"/>Divine Hymns And other <hi>EXTEMPORE</hi> POEMS.</head>
+         <div n="1" type="hymn">
+            <head>
+               <hi>I</hi> HYMN.</head>
+            <lg>
+               <l>THe Song of Songs, Great <hi>Solomon,</hi>
+               </l>
+               <l>To ſing thou didſt inſpire;</l>
+               <l>Great King of kings, let me partake</l>
+               <l>Of like Coeleſtial Fire.</l>
+            </lg>
+            <lg>
+               <l>Oh kiſs me with thy kiſſes ſweet,</l>
+               <l>More ſweet than Flowry Morn;</l>
+               <l>For which, all other Pleaſures I</l>
+               <l>Will caſt away in Scorn.</l>
+            </lg>
+            <lg>
+               <l>Each fragrant Roſe its prickles hath,</l>
+               <l>Encompaſs'd is with Brire;</l>
+               <l>But no ſuch hurtful mixture is</l>
+               <l>In the Bleſſings I deſire.</l>
+            </lg>
+            <lg>
+               <l>Thy Love more ſtrength and vigor gives</l>
+               <l>Than doth the generous Wine;</l>
+               <l>
+                  <pb n="4" facs="tcp:184410:5"/>Though in the Grape's a Treaſures hid,</l>
+               <l>I cannot now define.</l>
+            </lg>
+            <lg>
+               <l>The Chaſeſt Virgins pureſt Love,</l>
+               <l>Great King they give to thee,</l>
+               <l>Becauſe the ſavour of thy Balm</l>
+               <l>Pours forth moſt fragrantly.</l>
+            </lg>
+            <lg>
+               <l>Not all the Spice of <hi>India,</hi>
+               </l>
+               <l>Nor yet <hi>Mount Gileads</hi> Balm,</l>
+               <l>Sends forth a Breath, an Air ſo ſweet,</l>
+               <l>So ſoft, and pure, and ſo calm.</l>
+            </lg>
+            <lg>
+               <l>Attract my Soul by thy great power;</l>
+               <l>Draw me with Cords of Love;</l>
+               <l>In ardent Flames I will aſcend:</l>
+               <l>My Magnet is above.</l>
+            </lg>
+            <lg>
+               <l>Like Tents of Kedar, pure and white,</l>
+               <l>And moſt exactly plac'd;</l>
+               <l>So are all things as made by thee,</l>
+               <l>And with thy Preſence grac'd</l>
+            </lg>
+            <lg>
+               <l>Like Curtains of great <hi>Solomon</hi>
+               </l>
+               <l>Moſt Glorious to behold,</l>
+               <l>So hath my Love adorned me</l>
+               <l>And deckt with fineſt Gold.</l>
+            </lg>
+            <lg>
+               <l>I'm black alas, I am very black,</l>
+               <l>And of a darkſom hue,</l>
+               <l>Becauſe the Sun with his bright Beams,</l>
+               <l>Hath pierc'd me through and through.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:184410:5"/>
+               <l>Yet in this black and darkſom Vail,</l>
+               <l>Such Comlineſs doth ſhine</l>
+               <l>That makes me know it is my Love,</l>
+               <l>It is his Light Divine.</l>
+            </lg>
+            <lg>
+               <l>Ye Daughters of <hi>Jeruſalem</hi>
+               </l>
+               <l>Oh do not look on me,</l>
+               <l>Look on my Love, for in his Face</l>
+               <l>You'll all my Beauty ſee.</l>
+            </lg>
+            <lg>
+               <l>Like Horſes that Kings Chariots draw.</l>
+               <l>So is my Love to me;</l>
+               <l>What is ſo ſtrong as are ſuch Steeds?</l>
+               <l>And none ſo ſtately be.</l>
+            </lg>
+            <lg>
+               <l>Where doſt thou make thy Flocks to feed,</l>
+               <l>In Paſture freſh and clean,</l>
+               <l>More ſweet that all the Verdant Fields</l>
+               <l>Or Flowry Meads I've ſeen.</l>
+            </lg>
+            <lg>
+               <l>Oh tell me where thou mak'ſt thy Flocks</l>
+               <l>To reſt themſelves at Noon,</l>
+               <l>Could I but find ſome cloſe receſs,</l>
+               <l>I would run to it ſoon.</l>
+            </lg>
+            <lg>
+               <l>Thou faireſt Woman of thy Sex,</l>
+               <l>More fair than <hi>Egypts</hi> Queen;</l>
+               <l>Or all the Beauties on the Earth</l>
+               <l>Have been or ſhall be ſeen.</l>
+            </lg>
+            <lg>
+               <l>If thou wouldſt Reſt and Safety find,</l>
+               <l>And know where beſt to feed;</l>
+               <l>
+                  <pb n="6" facs="tcp:184410:6"/>Follow the foot-ſteps of the Flock,</l>
+               <l>Run after them with ſpeed.</l>
+            </lg>
+            <lg>
+               <l>Go nearer to the Shepherds Tents,</l>
+               <l>There is no need to fear</l>
+               <l>The Fox, the Wolf, nor other Beaſt.</l>
+               <l>That us'd the Sheep to tear.</l>
+            </lg>
+            <lg>
+               <l>There thou may'ſt feed thy Kids and Lambs,</l>
+               <l>And Sheep that are with young;</l>
+               <l>In Vails amongſt the Myrtles ſweet,</l>
+               <l>And lofty Ceders ſtrong.</l>
+            </lg>
+            <lg>
+               <l>Thy Cheeks like rowes of precious Gems,</l>
+               <l>By Hands of Artiſts ſet;</l>
+               <l>Caſts forth a Luſtre far more bright,</l>
+               <l>When they with Tears are wet.</l>
+            </lg>
+            <lg>
+               <l>We'll make thee Borders, Chains of Gold,</l>
+               <l>With Studs of Silver bright;</l>
+               <l>Thou may'ſt attend upon the King,</l>
+               <l>Find favour in his ſight.</l>
+            </lg>
+            <lg>
+               <l>When the Great King at Table ſits,</l>
+               <l>My Spiknard gives a ſcent</l>
+               <l>Not from the impure mixed four,</l>
+               <l>But one pure Element.</l>
+            </lg>
+            <lg>
+               <l>The Vineyards of <hi>Engedy,</hi> when</l>
+               <l>They'r fill'd with Champhire white,</l>
+               <l>Sends forth a fragrant wholſome ſmell</l>
+               <l>For Profit and Delight.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:184410:6"/>
+               <l>So my Beloved's all to me,</l>
+               <l>That I can wiſh or need;</l>
+               <l>He's Phyſick to me when I'm ſick,</l>
+               <l>He's Food when I would feed.</l>
+            </lg>
+            <lg>
+               <l>Like meek and peaceful lonely Doves</l>
+               <l>With languor in their Eyes,</l>
+               <l>Mourn for their abſent loved Mates,</l>
+               <l>Meet them with ſweet ſurpriſe.</l>
+            </lg>
+            <lg>
+               <l>So is my Spouſe when ſhe doth turn</l>
+               <l>Her love-ſick Eyes to me;</l>
+               <l>They'r fair, but chaſt as are the Doves</l>
+               <l>In their Minority.</l>
+            </lg>
+            <lg>
+               <l>The ſtrong and lofty Cedar tops</l>
+               <l>Their ſtrength and ſweetneſs give</l>
+               <l>To Beams for Royal Palaces,</l>
+               <l>Where the King and Queen do live.</l>
+            </lg>
+            <lg>
+               <l>The upright Firr-tree Rafters make</l>
+               <l>For this bleſt Manſion Seat;</l>
+               <l>But to deſcribe it, is a work</l>
+               <l>By far for me too great.</l>
+            </lg>
+         </div>
+         <div n="2" type="hymn">
+            <head>
+               <hi>II</hi> HYMN.</head>
+            <lg>
+               <l>AH bleſſed Jeſus, let me ſee thy Face,</l>
+               <l>Let me draw near unto thy holy place.</l>
+               <l>With Wings of Eagles let me mount on high,</l>
+               <l>There to behold thy bright Divinity.</l>
+            </lg>
+            <lg>
+               <l>Tho' I am here encompaſſed with Clay,</l>
+               <l>Let me behold the dawning of thy day;</l>
+               <l>
+                  <pb n="8" facs="tcp:184410:7"/>Shine forth O Lord from th' centre of my heart,</l>
+               <l>Let Light Divine fill me in every part.</l>
+            </lg>
+            <lg>
+               <l>Oh fill my Soul with thy Caeleſtial fire,</l>
+               <l>With thy pure Spirit do thou me inſpire;</l>
+               <l>That I may ſing and bleſs thy Holy Name,</l>
+               <l>And may return to thee thy own pure flame.</l>
+            </lg>
+            <lg>
+               <l>I will retrun to thee my love, my All,</l>
+               <l>Be always ready to obey thy Call.</l>
+               <l>Write in my Heart the Royal Law of Love,</l>
+               <l>That whilſt below I may be like thoſe above.</l>
+            </lg>
+            <lg>
+               <l>Whoſe bleſt employment is to love and ſing</l>
+               <l>
+                  <hi>Hallelujahs</hi> to our Heavenly King.</l>
+               <l>Now I will joyn with this moſt bleſſed Choir,</l>
+               <l>With them I'll praiſe, with them I will admire.</l>
+            </lg>
+            <lg>
+               <l>Oh bleſſed Father, let me always dwell</l>
+               <l>With holy Angels, and with <hi>Emanuel;</hi>
+               </l>
+               <l>In his bleſt Land, O there is always peace,</l>
+               <l>He gives light for darkneſs, cauſes wars to ceaſe</l>
+            </lg>
+            <lg>
+               <l>Oh holy, holy, is the Lord, for he,</l>
+               <l>Gives life from death, he ſets the Priſoner free.</l>
+               <l>Unbind my fettered Soul, that it may be</l>
+               <l>Above the Earth and Materiallity.</l>
+            </lg>
+            <lg>
+               <l>Oh bleſſed God, let me hear thy ſtill Voice,</l>
+               <l>Let me with <hi>Mary</hi> make the better choice,</l>
+               <l>That I may ſit and hear thy Sacred Word,</l>
+               <l>Which is to me a ſharp two-edg'd Sword.</l>
+            </lg>
+            <lg>
+               <pb n="9" facs="tcp:184410:7"/>
+               <l>Dividing 'twixt the Marrow and the Bone,</l>
+               <l>Thou art my Rock and my chief corner ſtone.</l>
+               <l>I'll build on thee, on a foundation ſure.</l>
+               <l>That will always from age to age endure.</l>
+            </lg>
+         </div>
+         <div n="3" type="hymn">
+            <head>
+               <hi>III</hi> HYMN.</head>
+            <lg>
+               <l>SUch works I'd build as may abide the fire,</l>
+               <l>When into ſecret thoughts thou doſt enquire;</l>
+               <l>Purge me from droſs, Lord take away my ſin,</l>
+               <l>Let me be made all glorious within</l>
+            </lg>
+            <lg>
+               <l>Great Lord of lords, and King of kings,</l>
+               <l>Thou mak'ſt my dry and thirſty Earth to ſing,</l>
+               <l>And in the Deſert cauſes a new ſpring.</l>
+            </lg>
+            <lg>
+               <l>Awake my Soul, and ſing <hi>Jehovah</hi>'s Praiſe,</l>
+               <l>Who giveth life and from the dead doth raiſe;</l>
+               <l>Mercy and Goodneſs are in all his ways.</l>
+            </lg>
+            <lg>
+               <l>He doth behold us when we are moſt low,</l>
+               <l>And makes Spirit in our Souls to flow;</l>
+               <l>The day of his Power he doth make us know.</l>
+            </lg>
+            <lg>
+               <l>He ſees our dry bones, and ſays to them live,</l>
+               <l>And we ariſe by the power that he does give,</l>
+               <l>And by the Virtue we from him receive.</l>
+            </lg>
+            <lg>
+               <l>Now Holy Father bleſs thy Sacred Cauſe,</l>
+               <l>Make great Men bow unto thy Holy Laws;</l>
+               <l>And feel the Virtue that our Soul now draws.</l>
+            </lg>
+         </div>
+         <div n="4" type="hymn">
+            <head>
+               <hi>IV</hi> HYMN.</head>
+            <lg>
+               <l>I Will retire O Lord to thee,</l>
+               <l>Let me behold thy Majeſty:</l>
+               <l>
+                  <pb n="10" facs="tcp:184410:8"/>Let me ſee that thou art nigh</l>
+               <l>To thoſe who to themſelves do die.</l>
+            </lg>
+            <lg>
+               <l>Lord I am nothing of my ſelf,</l>
+               <l>Nor am I rich with worldly pelf;</l>
+               <l>But I have a Treaſure in thee in ſtore,</l>
+               <l>Which I diſcover more and more.</l>
+            </lg>
+            <lg>
+               <l>In thee I've Wiſdom, Life and Light,</l>
+               <l>Thou diſcovereſt wonders to my glimring ſight</l>
+               <l>Draw back the Curtain, unvail thy Face,</l>
+               <l>That I may know thou art in this place.</l>
+            </lg>
+            <lg>
+               <l>Great God I know thou art every where,</l>
+               <l>Not afar off, but thou art near;</l>
+               <l>But we poor Mortals by ſin are blind,</l>
+               <l>That our true reſt we cannot find.</l>
+            </lg>
+            <lg>
+               <l>Till by thy Spirit thou lead'ſt the way,</l>
+               <l>Not ſuffering us to go aſtray;</l>
+               <l>Thou lead'ſt us to the Flocks of Sheep,</l>
+               <l>Which our Great Shepherd doth ſafely keep<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>Thou lead'ſt us to the pleaſant Spring,</l>
+               <l>Where Angels always ſit and ſing;</l>
+               <l>And where we hear the pleaſant Voice</l>
+               <l>Of ſuch as do greatly rejoyce.</l>
+            </lg>
+            <lg>
+               <l>And none have greater than we</l>
+               <l>To joyn in this moſt bleſſed Harmony;</l>
+               <l>For thou haſt redeemed us from the Earth,</l>
+               <l>And made us live in the new birth.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:184410:8"/>
+               <l>Great God, I will fall down before</l>
+               <l>Thy Mercy-Seat, and thee adore;</l>
+               <l>Bleſt Saints and Angels they do ſo,</l>
+               <l>Who moſt thy Power and Beauty know.</l>
+            </lg>
+         </div>
+         <div n="5" type="hymn">
+            <head>
+               <hi>V</hi> HYMN.</head>
+            <lg>
+               <l>Sweet Jeſus, come away come, my dear Lord,</l>
+               <l>Make now no longer ſtay, thou living word:</l>
+               <l>Set up thy Throne in me,</l>
+               <l>Let all the Nations flee</l>
+               <l>That will not bow to thee</l>
+               <l>
+                  <hi>And thee Adore.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Praiſe ſhall be ſung in me to thy Great Name,</l>
+               <l>That I do feel the power of thy pure flame;</l>
+               <l>Let it me purifie,</l>
+               <l>And bring my Soul more nigh</l>
+               <l>To the bleſs'd Deity,</l>
+               <l>
+                  <hi>Who I adore.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now to the Unity my Soul ſhall come,</l>
+               <l>And to the Trinity which is but one;</l>
+               <l>To his Heart I will fly,</l>
+               <l>And there at reſt will lie,</l>
+               <l>To all Eternity</l>
+               <l>
+                  <hi>Will him adore.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I will be ſilent, let thy Spirit ſpeak,</l>
+               <l>Or elſe my heart, my very heart will break;</l>
+               <l>For thou doſt ſo my Soul with new Wine fill,</l>
+               <l>That I am feaſted upon <hi>Sion Hill.</hi>
+               </l>
+               <l>O how can I thy wondrous works declare,</l>
+               <l>For I am fed with more than Angels fair.</l>
+            </lg>
+         </div>
+         <div n="6" type="hymn">
+            <pb n="12" facs="tcp:184410:9"/>
+            <head>
+               <hi>VI</hi> HYMN.</head>
+            <l>ETernal Fountain of Divine ſweetneſs,</l>
+            <l>We do feel thy Virtue flow;</l>
+            <l>Thou ſhow'ſt us the ground of hidden treaſures,</l>
+            <l>And thy wonders doſt make us know.</l>
+            <l>We feel thy life in us ariſe,</l>
+            <l>To wait on thee 'tis not in vain;</l>
+            <l>We will ſell all to buy the Field,</l>
+            <l>This precious Pearl that we may gain.</l>
+            <l>And having gotten this Heavenly treaſure,</l>
+            <l>All other things for it deſpiſe;</l>
+            <l>Thou giveſt it to thy little Children,</l>
+            <l>Hideſt it from the worldly wiſe.</l>
+         </div>
+         <div n="7" type="hymn">
+            <head>
+               <hi>VII</hi> HYMN.</head>
+            <lg>
+               <l>I Sing the praiſe of the Eternal One,</l>
+               <l>I know beſides him there is none,</l>
+               <l>No ſort of Being that can ſay,</l>
+               <l>It hath its life another way.</l>
+            </lg>
+            <lg>
+               <l>But from this deep Abyſal ground,</l>
+               <l>The life of all things may be found;</l>
+               <l>To flow out from their Eternal Sourſe,</l>
+               <l>As Springs do from their water-courſe.</l>
+            </lg>
+            <lg>
+               <l>Springs may wander, Sheep may ſtray,</l>
+               <l>The Sun be clouded at Noon-day;</l>
+               <l>The Shepherd ſeeks the ſtraying Sheep,</l>
+               <l>'Tis not the Clouds the Sun can keep.</l>
+            </lg>
+            <lg>
+               <l>From ſhining forth ſo gloriouſly bright,</l>
+               <l>As to diſpel their darkſom night.</l>
+               <l>
+                  <pb n="13" facs="tcp:184410:9"/>Great waters from the Sea do flow,</l>
+               <l>And back unto it ſwiftly go.</l>
+            </lg>
+            <lg>
+               <l>So our Great <hi>Alpha,</hi> and <hi>Omega</hi> too,</l>
+               <l>Tho' we like Birds from their Neſt flew;</l>
+               <l>Wander about to find out reſt,</l>
+               <l>We muſt return ere we are bleſt.</l>
+            </lg>
+            <lg>
+               <l>And now I am inſpir'd by thee,</l>
+               <l>Bleſt Spirit, I'll praiſe the <hi>One, Two, Three;</hi>
+               </l>
+               <l>For in the Eternal One doth lie</l>
+               <l>The all-myſterious <hi>Trinity.</hi>
+               </l>
+            </lg>
+         </div>
+         <div n="8" type="hymn">
+            <head>
+               <hi>VIII</hi> HYMN.</head>
+            <lg>
+               <l>MY Soul ſhall ſing <hi>Jehovah</hi>'s Praiſe,</l>
+               <l>Let that great Name my ſpirit raiſe;</l>
+               <l>That I may with the Angels joyn,</l>
+               <l>To ſing a Hymn that is Divine.</l>
+            </lg>
+            <lg>
+               <l>That I may reach the Seraphick Choir,</l>
+               <l>Being quickened by the ſame pure fire.</l>
+               <l>Which makes them ſing, and make them love</l>
+               <l>In their Harmonious Orbs above.</l>
+            </lg>
+            <lg>
+               <l>Let ſuch high Praiſe in Heaven abound,</l>
+               <l>May make Earth eccho to the ſound;</l>
+               <l>That all the Creatures here below,</l>
+               <l>The mighty power of Love may know.</l>
+            </lg>
+            <lg>
+               <l>Good will to Man ſo doth appear,</l>
+               <l>That makes him know his God is near;</l>
+               <l>To ſave poor Mankinds fallen Race,</l>
+               <l>And bring him to his Native place.</l>
+            </lg>
+         </div>
+         <div n="9" type="hymn">
+            <pb n="14" facs="tcp:184410:10"/>
+            <head>
+               <hi>IX</hi> HYMN.</head>
+            <lg>
+               <l>YE Heaven-born Souls and Spirits free,</l>
+               <l>How ſweet is the law of liberty,</l>
+               <l>When Chriſt our Head doth ſet us free!</l>
+            </lg>
+            <lg>
+               <l>Free from the Law of death and ſin,</l>
+               <l>And does bring Life and Righteouſneſs in;</l>
+               <l>The day of God does in us begin.</l>
+            </lg>
+            <lg>
+               <l>A day ſo clear and glorious bright,</l>
+               <l>That it does dazle our weak ſight,</l>
+               <l>And does diſpel all ſhades of night.</l>
+            </lg>
+            <lg>
+               <l>Now Lord, ſhed forth more glorious Rays,</l>
+               <l>Let it be the light of ſeven days;</l>
+               <l>And then we will fall down and Praiſe.</l>
+            </lg>
+            <lg>
+               <l>All Creatures now with us rejoyce,</l>
+               <l>In God who is our only choice;</l>
+               <l>For we have heard his powerful Voice.</l>
+            </lg>
+            <lg>
+               <l>Call us from all things here below,</l>
+               <l>The day of his power to make us know,</l>
+               <l>And cauſe his Spirit in us to flow.</l>
+            </lg>
+         </div>
+         <div n="10" type="hymn">
+            <head>
+               <hi>X</hi> HYMN.</head>
+            <lg>
+               <l>SPring up, O Well, now ſpring in me,</l>
+               <l>Let me refreſhed by thy waters be;</l>
+               <l>I feel thy holy quickening breath,</l>
+               <l>That brings me from the Gates of Death.</l>
+            </lg>
+            <lg>
+               <l>Thy wind blows freely, thy water's ſweet,</l>
+               <l>The power of thy flames are great;</l>
+               <l>Thy breath, thy fire, thy water-ſpring,</l>
+               <l>Is the life and birth of every thing.</l>
+            </lg>
+            <lg>
+               <pb n="15" facs="tcp:184410:10"/>
+               <l>Outward and inward both do grow,</l>
+               <l>By thy pure waters overflow;</l>
+               <l>If thou withdraweſt thy quick'ning breath,</l>
+               <l>There's naught remains in me but death.</l>
+            </lg>
+            <lg>
+               <l>Do thou with fire me now baptiſe,</l>
+               <l>That I may be a whole burnt Sacrifice;</l>
+               <l>And into Aſhes I would turn</l>
+               <l>If thou my God wouldſt be my Urn.</l>
+            </lg>
+         </div>
+         <div n="11" type="hymn">
+            <head>
+               <hi>XI</hi> HYMN.</head>
+            <lg>
+               <l>YE Angels pure, and Spirits fine,</l>
+               <l>Who in great luſtre now do ſhine,</l>
+               <l>Let us all ſing a Song Divine.</l>
+            </lg>
+            <lg>
+               <l>To our great God, and our great King,</l>
+               <l>Who is the life of every thing,</l>
+               <l>And makes our life and light to ſpring.</l>
+            </lg>
+            <lg>
+               <l>Now let us all bow down and fall</l>
+               <l>Before the Throne Imperial;</l>
+               <l>Before the Father of us all.</l>
+            </lg>
+         </div>
+         <div n="12" type="hymn">
+            <head>
+               <hi>XII.</hi> HYMN.</head>
+            <lg>
+               <l>THe Lamb his Conqueſt will maintain,</l>
+               <l>His Kingdom does begin to ariſe;</l>
+               <l>O let us follow this Conqueror,</l>
+               <l>'Till we do gain the glorious Prize.</l>
+            </lg>
+            <lg>
+               <l>High Praiſes ſhall be ſung by me,</l>
+               <l>That the Lamb hath got the Victory;</l>
+               <l>The Lamb is ſet upon his <hi>Throne,</hi>
+               </l>
+               <l>And the day of <hi>Pentecoſt</hi> is known.</l>
+            </lg>
+            <lg>
+               <l>High Praiſes now our <hi>Souls</hi> ſhall ſing,</l>
+               <l>To Great <hi>Jehovah</hi>'s Glorious Name;</l>
+               <l>
+                  <pb n="16" facs="tcp:184410:11"/>In Heavenly eccohs the Angels ſing,</l>
+               <l>At the very mention of the ſame.</l>
+            </lg>
+         </div>
+         <div n="8" type="hymn">
+            <head>
+               <hi>XIII</hi> HYMN.</head>
+            <lg>
+               <l>IN ſilent waiting I do find,</l>
+               <l>A Treaſure opens in my mind,</l>
+               <l>Turn in my Soul, turn in and ſee,</l>
+               <l>The fulneſs of this treaſury.</l>
+            </lg>
+            <lg>
+               <l>'Twas placed here by thee, O Lord,</l>
+               <l>'Tis opened by thy living Word,</l>
+               <l>'Tis he himſelf does keep the Key</l>
+               <l>Of all this Sacred Myſtery.</l>
+            </lg>
+            <lg>
+               <l>'Tis he does in the Centre dwell,</l>
+               <l>The Holy light <hi>Emanuel;</hi>
+               </l>
+               <l>He is my <hi>Sun</hi> of Righteouſneſs,</l>
+               <l>Who my whole Perſon does poſſeſs.</l>
+            </lg>
+            <lg>
+               <l>He is my Gold tried in the Fire;</l>
+               <l>He is my Cloathing, my Attire.</l>
+               <l>He is my Food, on him I feed,</l>
+               <l>And find him to be Meat indeed.</l>
+            </lg>
+            <lg>
+               <l>My God I hear thy powerful Call,</l>
+               <l>That doth redeem me from the Fall:</l>
+               <l>In Paſſive ſtillneſs I do ſtand,</l>
+               <l>Till I am moved by thy ſtrong Hand.</l>
+               <l>In holy ſilence I will wait,</l>
+               <l>Till I do know a more perfect ſtate.</l>
+            </lg>
+         </div>
+         <div n="4" type="hymn">
+            <pb n="9" facs="tcp:184410:11"/>
+            <head>HYMN <hi>IV.</hi>
+            </head>
+            <lg>
+               <l>HOw beautiful it is and ſweet,</l>
+               <l>When Jeſus in our Walks we meet;</l>
+               <l>He doth our Souls with love embrace,</l>
+               <l>And leads us into his ſecret Place,</l>
+               <l>Where he will ſhew to us his love,</l>
+               <l>And gives us the nature of the Dove;</l>
+               <l>The Dove-like Life, the Dove-like Fire,</l>
+               <l>Which our whole perſons does inſpire,</l>
+               <l>That we may ſpeak, that we may act</l>
+               <l>by the Virtue of this ſtrong compact.</l>
+               <l>When the Spirit all our works does do,</l>
+               <l>Then mighty Wonders will enſue.</l>
+            </lg>
+            <lg>
+               <l>Lord, let us be like coals of fire,</l>
+               <l>Whoſe pure Loveflame mounts higher, higher,</l>
+               <l>Till we do reach the Seraphick Quire.</l>
+            </lg>
+            <lg>
+               <l>'Tis in great order they do move</l>
+               <l>In the brights Orbs of light above;</l>
+               <l>In the Ocean of Divine love.</l>
+            </lg>
+            <lg>
+               <l>They will teach our Souls to ſing,</l>
+               <l>Hallelujahs to our Great King,</l>
+               <l>To whom we now our Offerings bring;</l>
+            </lg>
+            <lg>
+               <l>The firſt fruits of our <hi>Canaan</hi> Land;</l>
+               <l>Lord, with them we before thee ſtand,</l>
+               <l>Do thou receive them at our hand:</l>
+            </lg>
+            <lg>
+               <l>The firſt fruits of our Increaſe;</l>
+               <l>A little Love, a little Peace;</l>
+               <l>Lord, let theſe Blesſings never ceaſe.</l>
+            </lg>
+            <lg>
+               <pb n="18" facs="tcp:184410:12"/>
+               <l>O let all ſhadows flee away,</l>
+               <l>That we may ſee that glorious Day,</l>
+               <l>That never, never ſhall decay.</l>
+            </lg>
+         </div>
+         <div n="15" type="hymn">
+            <head>HYMN <hi>XV.</hi>
+            </head>
+            <lg>
+               <l>A Fire doth our Altar burn,</l>
+               <l>Which when into it we do turn,</l>
+            </lg>
+            <lg>
+               <l>Our Souls do mingle with the Fire,</l>
+               <l>And we aſcend in pure deſire;</l>
+            </lg>
+            <lg>
+               <l>That healing Virtue may on us fall,</l>
+               <l>Let us not be like Prieſts of <hi>Baal,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When they for heavenly Fire did cry,</l>
+               <l>Found they did worſhip a falſe Deity.</l>
+            </lg>
+            <lg>
+               <l>Let us be like thy Prophets, who</l>
+               <l>Thy Urim, and thy Thummim knew.</l>
+            </lg>
+            <lg>
+               <l>Thy light and fire, both which do give</l>
+               <l>Power to ſay to the Dead, live.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="19" facs="tcp:184410:12"/>
+            <head>On the Death of my Worthy Friend, Mr. G. C.</head>
+            <lg>
+               <l>SEE how he ſmiles he's gone to reſt</l>
+               <l>Amongſt the Spirits of the Bleſt.</l>
+               <l>My panting Soul does long to be</l>
+               <l>From groſs and droſſy Matter free.</l>
+            </lg>
+            <lg>
+               <l>That with him I may learn to ſing,</l>
+               <l>High praiſes to our Glorious King.</l>
+               <l>Sing praiſes to the God of love,</l>
+               <l>Who is exalted far above.</l>
+            </lg>
+            <lg>
+               <l>All Praiſes, Ardors, or Deſire,</l>
+               <l>Though quickened by Coeleſtial fire;</l>
+               <l>But ſtay, my Soul, why doſt thou ſoar,</l>
+               <l>Thou art but Gold yet in the Oar,</l>
+            </lg>
+            <lg>
+               <l>Till by the Fire thou art refin'd,</l>
+               <l>From earthy Faeces, and calcin'd.</l>
+               <l>What won't abide, muſt ſuffer loſs,</l>
+               <l>The Fire takes away all Droſs.</l>
+            </lg>
+            <lg>
+               <l>When thou art pure and unmixt,</l>
+               <l>And in the bleſſed Center fixt;</l>
+               <l>
+                  <pb n="20" facs="tcp:184410:13"/>Then thou may'ſt ſing, and utter praiſe</l>
+               <l>To Him that does Dead Bodies raiſe,</l>
+               <l>And makes them Gloriouſly to ſhine,</l>
+               <l>And ſo, Dear Saint, 'twill be with thine.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>On the Death of Mr. <hi>R. B.</hi> ſome time after Mr. <hi>COCKAIN.</hi>
+            </head>
+            <lg>
+               <l>WHat! ſuch another Saint as this,</l>
+               <l>Are you together gone to Bliſs?</l>
+               <l>Did you join in ſtrong Deſire,</l>
+               <l>To fly to yon Coeleſtial Quire?</l>
+               <l>Tell me what your Songs now are,</l>
+               <l>Teach me the Harmonious air,</l>
+               <l>In which you triumph ore the Grave,</l>
+               <l>While you Adore him that do's ſave.</l>
+            </lg>
+            <lg>
+               <l>Now you like glorious Lights do ſhine,</l>
+               <l>With a Luſtre more Divine;</l>
+               <l>'Cauſe you did ſons to Glory turn,</l>
+               <l>Here is the Aſhes, here's the Urn:</l>
+               <l>Yet turn your eye, Look, look on High,</l>
+               <l>There theſe two Glorious Stars you'l ſpy.</l>
+            </lg>
+            <lg>
+               <pb n="21" facs="tcp:184410:13"/>
+               <l>HOw ſweet it is to feel loves fire;</l>
+               <l>Ariſe into a ſtrong Deſire,</l>
+               <l>That never, never will expire.</l>
+            </lg>
+            <lg>
+               <l>But do's increaſe into a Flame</l>
+               <l>That makes us bleſs and praiſe thy Name,</l>
+               <l>And thy great Wonders to procloim;</l>
+            </lg>
+            <lg>
+               <l>For thou haſt done for us Great things,</l>
+               <l>Thou tread'ſt on the necks of Mighty Kings,</l>
+               <l>And out of Death a new Life ſprings;</l>
+            </lg>
+            <lg>
+               <l>A life that conquers Death and Hell,</l>
+               <l>By the power of our <hi>Emmanuel,</hi>
+               </l>
+               <l>Who now in us is come to dwell:</l>
+            </lg>
+            <lg>
+               <l>A life that in our Souls outflows</l>
+               <l>In the lowly Lilly, and Sharon Roſe,</l>
+               <l>And much more Sweets in our garden grows.</l>
+            </lg>
+            <lg>
+               <l>Come our Beloved with us ſup,</l>
+               <l>Let's drink of thy Love-flaming cup,</l>
+               <l>That we can never drink all up.</l>
+            </lg>
+            <lg>
+               <l>But in pure new Flames do's ariſe,</l>
+               <l>That our whole Perſons do's baptize,</l>
+               <l>And makes us a living Sacrifice.</l>
+            </lg>
+         </div>
+         <div type="hymn">
+            <pb n="22" facs="tcp:184410:14"/>
+            <head>An HYMN.</head>
+            <lg>
+               <l>THe power of Life we now do feel,</l>
+               <l>Is of thy Sacred love a Seal.</l>
+               <l>Set us a Signet on thy hand,</l>
+               <l>That in thy preſence may always ſtand.</l>
+            </lg>
+            <lg>
+               <l>We feel the warmth of a glorious ray.</l>
+               <l>From the opening of thy lightſome day.</l>
+               <l>Now glorious Sun, do thou on us ſhine,</l>
+               <l>And cloath us with thy light divine.</l>
+            </lg>
+            <lg>
+               <l>That all our ſhadows away may flee,</l>
+               <l>At the preſence of thy Majeſty,</l>
+               <l>That we no longer may endure,</l>
+               <l>That which is mixt or is impure.</l>
+            </lg>
+            <lg>
+               <l>But ſince this happy Day is known,</l>
+               <l>And thou art ſet upon thy Throne.</l>
+               <l>Let us the Trial Lord, abide,</l>
+               <l>And love the fire by which we are try'd.</l>
+            </lg>
+            <lg>
+               <l>The coming of our Lord draws near,</l>
+               <l>O let us watch and pray,</l>
+               <l>That when his glorious Day appears,</l>
+               <l>We mayn't be found to ſtray;</l>
+               <l>Let's trim our Lamps, our Garments clean,</l>
+               <l>And round about us tied,</l>
+               <l>Be girt with Truth and Righteouſneſs;</l>
+               <l>Put off Self-love and Pride.</l>
+            </lg>
+            <lg>
+               <pb n="23" facs="tcp:184410:14"/>
+               <l>None is ſo Holy as the Lord,</l>
+               <l>Nor none ſo Great as he<g ref="char:punc">▪</g>
+               </l>
+               <l>Let me behold thy wondrous Works</l>
+               <l>In the Univerſal Harmony,</l>
+               <l>From the bright Orbs where Angels are</l>
+               <l>In full Felicity.</l>
+               <l>To the loweſt circles on the Earth</l>
+               <l>Is a Univerſal Harmony.</l>
+            </lg>
+            <lg>
+               <l>From the moſt High and holy Place,</l>
+               <l>Above the glaſſy Sea,</l>
+               <l>To the loweſt center of the Earth</l>
+               <l>Is a Univerſal Harmony.</l>
+            </lg>
+            <lg>
+               <l>Let God ariſe, his Enemies ſhall fly,</l>
+               <l>He is enthron'd, and deckt with Majeſty;</l>
+               <l>He is encompaſſed with pureſt Light;</l>
+               <l>See how his Foes do fly, they're vanquiſht quite.</l>
+            </lg>
+            <lg>
+               <l>Let God ariſe, his powerful Scepter ſway,</l>
+               <l>Were near th'aproach of his moſt glorious day.</l>
+               <l>He is ariſen from his holy place,</l>
+               <l>See how his Fo's do fly before his face.</l>
+            </lg>
+            <lg>
+               <l>O who can ſtand before the Son of Man,</l>
+               <l>He comes his floor to purge, the wheat to fan,</l>
+               <l>The Chaff ſhall fly before his holy wind,</l>
+               <l>Nothing but what is pure ſhall be left behind.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="advert">
+            <pb facs="tcp:184410:15"/>
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>THe True Juice of Liquoras,</hi> Or <hi>Lozenge of Blois,</hi> Exactly Pre<g ref="char:EOLhyphen"/>pared, and is
+good to Cure <hi>Colds,</hi> and <hi>Coughs,</hi> and is of great Efficacy and Be<g ref="char:EOLhyphen"/>nefit to ſuch
+as are <hi>Short-breath'd</hi> and <hi>Conſumptive;</hi> They have Cured many which have <hi>Spit
+Blood</hi> by the continued Uſe of them for ſome time, and thoſe that have been ſo
+<hi>Short-breath'd,</hi> that they could not get up Stairs without Help, have found ſpeedy Eaſe
+by the Uſe of theſe <hi>LOZENGES:</hi> They are Sold next Door to the Sign of the
+<hi>Feathers</hi> in <hi>Al<g ref="char:EOLhyphen"/>derſgate-ſtreet,</hi> near the <hi>George-Inn,</hi> in
+<hi>Sixpence, Twelvepence,</hi> and 2 <hi>s.</hi> Boxes, mark'd with a <hi>Phoenix</hi> on the top
+of the Boxes.</p>
+            <pb facs="tcp:184410:15"/>
+         </div>
+      </back>
+   </text>
+</TEI>
